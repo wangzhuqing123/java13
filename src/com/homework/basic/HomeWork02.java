@@ -1,4 +1,4 @@
-package com.homework;
+package com.homework.basic;
 /**
  * @author Administrator
  *求一个一元二次方程的平方根。

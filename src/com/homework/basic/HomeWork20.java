@@ -1,4 +1,4 @@
-package com.homework;
+package com.homework.basic;
 import java.util.Scanner;
 /**
  * @author Administrator
@@ -12,6 +12,7 @@ public class HomeWork20 {
 		int month =sc.nextInt();
 		sc.close();
 		//HomeWork20 rabit=new HomeWork20();因为digui()方法是静态的，所以可以不new实例。如果去掉static,则此处不能省略。
+		//ststic类的生命周期是整个application。所以会一直占用内存。如果不经常使用，没有必要用static。
 		System.out.printf("%d月，兔子的总数为： %d",month,(digui(month))*2);
 	}
 	

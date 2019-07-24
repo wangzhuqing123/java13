@@ -1,4 +1,4 @@
-package com.homework;
+package com.homework.basic;
 /**
  * @author Administrator
   *  已知 XYZ+YZZ=532，其中，X、Y、Z 为数字，编程求出 X、Y 和 Z 的值。

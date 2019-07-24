@@ -1,4 +1,4 @@
-package com.homework;
+package com.homework.basic;
 import java.util.Scanner;
 /**
  * @author Administrator
